@@ -1,0 +1,234 @@
+@charset "utf-8";
+#div0 {
+	background-color: #C60;
+	height: auto;
+	width: 1000px;
+	margin-top: 10px;
+	margin-right: auto;
+	margin-bottom: 10px;
+	margin-left: auto;
+	filter: alpha(Opacity=99);
+	-moz-opacity: 1;
+	opacity: 1;
+}
+#divheader {
+	background-color: #6F9;
+	height: 150px;
+	width: 1000px;
+}
+#divbanner {
+	background-color: #FFD384;
+	height: 40px;
+	width: 1000px;
+}
+#divmain {
+	background-color: #FEA500;
+	height: 900px;
+	width: 1000px;
+	border-radius:25px;
+	
+}
+#divfooter {
+	background-color: #06F;
+	height: 40px;
+	width: 1000px;
+	text-align: center;
+}
+body {
+	background-image: url(img/1.jpg);
+
+    background-repeat:no-repeat;
+	background-attachment: fixed;
+}
+#divleft {
+	background-color: #FEA500;
+	float: left;
+	height: 800px;
+	width: 260px;
+	margin: 20px;
+	text-decoration: underline;
+	
+}
+#divright {
+	background-color: #F90;
+	margin: 20px;
+	float: left;
+	height: 800px;
+	width: 650px;
+	
+}
+#divmp3 {
+	background-color: #FEA500;
+	height: 86px;
+	width: auto;
+}
+#divgg1 {
+	background-color: #F1F1F1;
+	height: 250px;
+	width: auto;
+	margin: 10px;
+}
+#divgg2 {
+	background-color: #F1F1F1;
+	margin: 10px;
+	height: 444px;
+	width: auto;
+}
+#div0 #divbanner ul {
+	display: inline;
+}
+#div0 #divbanner ul li {
+	font-size: 18px;
+	font-weight: bolder;
+	color: #366;
+	float: left;
+	width: 70px;
+	margin-top: 9px;
+	margin-left: 30px;
+	list-style-image: none;
+	list-style-type: none;
+	text-align: center;
+	height: 20px;
+	
+}
+#div0 #divbanner ul li a {
+	color: #D7261C;
+	text-decoration: none;
+	display: block;
+}
+#div0 #divbanner ul li a:hover {
+	background-color: #FCF;
+}
+#div0 #divmain #divleft #divgg1 ul li {
+	height: 31.5px;
+	font-family: "幼圆";
+}
+#div0 #divmain #divleft #divgg1 ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	background-color: #FFD384;	
+}
+#div0 #divmain #divleft #divgg1 ul li a {
+	display: block;
+	width: 210px;
+	color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+#div0 #divmain #divleft #divgg2 ul li {
+	height: 32px;
+	font-family: "幼圆";
+}
+#div0 #divmain #divleft #divgg2 ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	background-color: #FFD384;	
+	
+}
+#div0 #divmain #divleft #divgg2 ul li a {
+	display: block;
+	width: 210px;
+	color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+#div0 #divmain #divleft #divgg1 ul li a:hover {
+	background-color: #555;
+	color: white;
+	font-family: "幼圆";
+}
+#div0 #divmain #divleft #divgg2 ul li a:hover {
+	background-color: #555;
+    color: white;
+}
+#div0 #divbanner ul li {
+	font-family: "幼圆";
+}
+#div0 #divfooter p {
+	style="text-align:center;"
+	font-size: 9px;
+	font-size: 12px;
+	text-align: center;
+}
+div.img
+{
+	border: 1px solid #FF66CC;
+	height: 160px;
+	width: 150px;
+	float: left;
+	text-align: center;
+	background-color: #FC6;
+	margin-top: 8px;
+	margin-right: 32px;
+	margin-bottom: 2px;
+	margin-left: 32px;
+}	
+ 
+div.img img
+{
+  display: inline;
+  margin: 3px;
+  border: 1px solid #ffffff;
+}
+ 
+div.img a:hover img {
+	border: 1px solid #FF6699;
+}
+ 
+div.desc
+{
+	text-align: center;
+	font-weight: normal;
+	width: auto;
+	margin: 10px;
+	height: auto;
+	padding: 10px;
+	font-family: "幼圆";
+}
+#divright02 {
+	height: 200px;
+	width: 650px;
+}
+div.img
+{
+	border: 1px solid #FF66CC;
+	height: 180px;
+	width: 150px;
+	float: left;
+	text-align: center;
+	background-color: #FC6;
+	margin-top: 15px;
+	margin-right: 32px;
+	margin-bottom: 15px;
+	margin-left: 32px;
+}	
+ 
+div.img img
+{
+  display: inline;
+  margin: 3px;
+  border: 1px solid #ffffff;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+ 
+div.img a:hover img {
+	border: 1px solid #FF6699;
+}
+ 
+div.desc
+{
+	text-align: center;
+	font-weight: normal;
+	width: auto;
+	margin: 10px;
+	height: auto;
+	padding: 10px;
+	font-family: "幼圆";
+}
+#divright02 {
+	height: 200px;
+	width: 650px;
+}
+/* CSS Document */
